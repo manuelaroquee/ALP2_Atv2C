@@ -4,7 +4,7 @@
 int num;
 int main(){
     
-    printf("Digite um número:");
+    printf("Digite um número: ");
     scanf("%d", &num);
     if (num>=10){
         printf("Sim - É maior ou igual a 10");
